@@ -1,6 +1,6 @@
 # reqif.xsd
 
-Original ReqIf XML schema files have broken links inside driver.xsd. This files have rigth links.
+Original ReqIf XML schema files have broken links inside driver.xsd. This files have right links.
 
 http://www.omg.org/spec/ReqIF/1.0.1/
 
